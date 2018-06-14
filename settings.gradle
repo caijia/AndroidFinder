@@ -1,0 +1,1 @@
+include ':androidfinder-parent', ':androidfinder-compiler', ':androidfinder-annotation', ':androidfinder'
